@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D21l7XJGsmrZPcZLoIAx1cNMtQ6hpV/LqmhrGV6ST4vjBxn/w7XG1Q+ipU8Bt0XO5p+YXQr3wNrOzEUjFBGffw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpscott\\Desktop\\6-23Misc\\LinqDemoModified\\LINQLibrary\\LINQLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpscott\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jpscott\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

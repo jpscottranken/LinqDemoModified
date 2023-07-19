@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\bin\Debug\netstandard2.0\LINQLibrary.deps.json
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\bin\Debug\netstandard2.0\LINQLibrary.dll
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\bin\Debug\netstandard2.0\LINQLibrary.pdb
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\obj\Debug\netstandard2.0\LINQLibrary.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\obj\Debug\netstandard2.0\LINQLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\obj\Debug\netstandard2.0\LINQLibrary.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\obj\Debug\netstandard2.0\LINQLibrary.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\obj\Debug\netstandard2.0\LINQLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\obj\Debug\netstandard2.0\LINQLibrary.dll
+C:\Users\jpscott\Desktop\6-23Misc\LinqDemoModified\LINQLibrary\obj\Debug\netstandard2.0\LINQLibrary.pdb
